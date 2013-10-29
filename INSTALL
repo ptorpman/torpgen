@@ -1,0 +1,5 @@
+TorpGen is dependent on the GenericTree library (http://generictree.sourceforge.net), and this library
+must be checked out toghether with the TorpGen files in order to be able to compile.
+
+	
+	
